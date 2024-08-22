@@ -13,13 +13,15 @@ Prototype Testing Intern
 ### Harvard Medical School – Shin Lab
 Research Assistant
 - Co-authored a review article on various types of biosensors capable of detecting greenhouse gases in the environment.
-- Bassous, Nicole Joy, Ashly Corona Rodriguez, Celina Ivonne Lomeli Leal, et al. "Significance of Various Sensing Mechanisms for Detecting Local and Atmospheric Greenhouse Gases: A Review." Advanced Sensor Research (2023): 2300094.
+- Click here to view: [article](https://onlinelibrary.wiley.com/doi/10.1002/adsr.202300094)
 
 ### Tecnologico de Monterrey – Alvarez-Trujillo Lab
 Research Assistant
 - Project leader; worked developing a droplet-based microfluidic platform to produce 3D cancer tumor models.
+- Presented the project in the 2020 [AIChE](https://aiche.confex.com/aiche/2020/meetingapp.cgi/Paper/608083) and BMES Annual Meetings
   
 ## SKILLS
+**Laboratory:** XRD, SEM, BET, IR, Raman, TGA, DSC \
 **Data analysis:** Excel, Python, SQL, MATLAB \
 Problem solving, Oral presentation skills, Creativity, Research proposal development
 
@@ -31,8 +33,8 @@ Tecnologico de Monterrey
 
 ## LANGUAGES
 **Spanish**, Native proficiency \
-**English**, TOEFL iBT: 111/120 equivalent to C2 level. \
-**French**, DELF with B2 level 
+**English**, TOEFL iBT: 111/120 equivalent to C2 level. [View Results](https://drive.google.com/file/d/14aoilznzt4WczOdG-oFSkiyz7qXY1n6w/view?usp=sharing) \
+**French**, DELF with B2 level. [View Results](https://drive.google.com/file/d/1uRx7lZ3RM8r1X2Pnws-__2Ha5swXdtS7/view?usp=sharing)
 
 ## PROJECTS
 ### Meet Your Locals

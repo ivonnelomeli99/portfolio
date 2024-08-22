@@ -1,4 +1,4 @@
-## EXPERIENCE
+## MY EXPERIENCE
 ### Tecnologico de Monterrey – Nano Structured Materials Lab
 Thesis student
 - Fabrication of materials with applications in desalination processes and energy storage for batteries.

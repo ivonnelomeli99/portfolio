@@ -1,5 +1,5 @@
 # Celina Ivonne Lomeli Leal
-[https://www.linkedin.com/in/ivonnelomeli/](https://www.linkedin.com/in/ivonnelomeli/}
+[https://www.linkedin.com/in/ivonnelomeli/](https://www.linkedin.com/in/ivonnelomeli/)
 
 ## EXPERIENCE
 ### Tecnologico de Monterrey – Nano Structured Materials Lab

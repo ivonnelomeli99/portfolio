@@ -1,6 +1,3 @@
-
-![me](assets/me.jpg)
-
 # Celina Ivonne Lomeli Leal
 [https://www.linkedin.com/in/ivonnelomeli/](https://www.linkedin.com/in/ivonnelomeli/)
 

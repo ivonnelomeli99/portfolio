@@ -1,5 +1,5 @@
 
-<img src="assets/photo.jpg" alt="drawing" width="200"/>
+<img src="assets/photo.png" alt="drawing" width="200"/>
 # Celina Ivonne Lomeli Leal
 [https://www.linkedin.com/in/ivonnelomeli/](https://www.linkedin.com/in/ivonnelomeli/)
 

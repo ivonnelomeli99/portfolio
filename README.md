@@ -1,5 +1,6 @@
 
 ![me](assets/me.jpg)
+
 # Celina Ivonne Lomeli Leal
 [https://www.linkedin.com/in/ivonnelomeli/](https://www.linkedin.com/in/ivonnelomeli/)
 
@@ -25,7 +26,7 @@ Research Assistant
 - Project leader; worked developing a droplet-based microfluidic platform to produce 3D cancer tumor models.
   
 ## SKILLS
-Data analysis: Excel, Python, SQL, MATLAB
+**Data analysis:** Excel, Python, SQL, MATLAB \
 Problem solving, Oral presentation skills, Creativity, Research proposal development
 
 ## EDUCATION
@@ -35,9 +36,9 @@ Tecnologico de Monterrey
 [https://coursera.org/share/4bdaa9afbe9b2952cded4aa52a00773a](https://coursera.org/share/4bdaa9afbe9b2952cded4aa52a00773a)
 
 ## LANGUAGES
-**Spanish**, Native proficiency
-**English**, TOEFL iBT: 111/120 equivalent to C2 level.
-**French**, DELF with B2 level
+**Spanish**, Native proficiency \
+**English**, TOEFL iBT: 111/120 equivalent to C2 level. \
+**French**, DELF with B2 level 
 
 ## PROJECTS
 ### Meet Your Locals

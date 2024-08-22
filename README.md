@@ -3,7 +3,7 @@
 Thesis student
 - Fabrication of materials with applications in desalination processes and energy storage for batteries.
 - I developed the research proposal, experimental design and methodology optimization for 3 different experiments, each with different precursors.
-- I concluded the project with analysis and presentation of results.
+- I concluded the project with analysis and presentation of results: [Click here to view article](https://drive.google.com/file/d/1viunEW09WzWtncmV0bKshwvO-RRwNOqG/view?usp=sharing)
 
 ### Grupo AlEn
 Prototype Testing Intern

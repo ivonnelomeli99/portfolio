@@ -5,7 +5,7 @@ LinkedIn: [https://www.linkedin.com/in/ivonnelomeli/](https://www.linkedin.com/i
 Thesis student
 - Fabrication of materials with applications in desalination processes and energy storage for batteries.
 - I developed the research proposal, experimental design and methodology optimization for 3 different experiments, each with different precursors.
-- I concluded the project with analysis and presentation of results: [Click here to view article](https://drive.google.com/file/d/1viunEW09WzWtncmV0bKshwvO-RRwNOqG/view?usp=sharing)
+- I was responsible for managing laboratory resources, following time constraints, give weekly follow-up presentations on my progress, and write a final article with the complete research. [Click here to view](https://drive.google.com/file/d/1viunEW09WzWtncmV0bKshwvO-RRwNOqG/view?usp=sharing)
 
 ### Grupo AlEn, 2022
 Prototype Testing Intern
@@ -20,10 +20,12 @@ Research Assistant
 ### Tecnologico de Monterrey – Alvarez-Trujillo Lab, 2020 - 2021
 Research Assistant
 - Project leader; worked developing a droplet-based microfluidic platform to produce 3D cancer tumor models.
-- Presented the project in the 2020 [AIChE](https://aiche.confex.com/aiche/2020/meetingapp.cgi/Paper/608083) and BMES Annual Meetings
+- Developed breast cancer spheroids with MCF7 cells, using a PMMA microfluidic platform.
+- Modeled the microfluidic device in COMSOL Multiphysics to determine the ideal flow rates needed to be introduced into the device.
+- Presented the project in the 2020 [BMES](https://drive.google.com/file/d/1Y-5uIsDX21wSp9pC0xyI89qj6ClUKBdF/view?usp=sharing) and [AIChE](https://aiche.confex.com/aiche/2020/meetingapp.cgi/Paper/608083) Annual Meetings.
   
 ## SKILLS
-**Laboratory:** XRD, SEM, BET, IR, Raman, TGA, DSC \
+**Laboratory:** XRD, SEM, BET, IR, UV-Vis, Raman, TGA, DSC \
 **Data analysis:** Excel, Python, SQL, MATLAB \
 Problem solving, Oral presentation skills, Creativity, Research proposal development
 
@@ -31,7 +33,7 @@ Problem solving, Oral presentation skills, Creativity, Research proposal develop
 **Nanotechnology Engineering**, 2018 - 2023
 Tecnologico de Monterrey
 **Google Data Analytics Professional Certificate**, Completed Aug. 2024
-[https://coursera.org/share/4bdaa9afbe9b2952cded4aa52a00773a](https://coursera.org/share/4bdaa9afbe9b2952cded4aa52a00773a)
+[View Certificate](https://coursera.org/share/4bdaa9afbe9b2952cded4aa52a00773a)
 
 ## LANGUAGES
 **Spanish**, Native proficiency \

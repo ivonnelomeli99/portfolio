@@ -42,7 +42,7 @@ Tecnologico de Monterrey
 
 ## PROJECTS
 ### Meet Your Locals, 2024
-Event management
+Event management and public relations
 - Organizing events with the objective of creating an artistic community in Monterrey.
 - I contact experts in creative industries and manage the process of brainstorming ideas, venue logistics, itineraries, and materials.
 - Instagram: [@meetyourlocal.s](https://www.instagram.com/meetyourlocal.s/)

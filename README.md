@@ -1,3 +1,5 @@
+LinkedIn: [https://www.linkedin.com/in/ivonnelomeli/](https://www.linkedin.com/in/ivonnelomeli/)
+
 ## MY EXPERIENCE
 ### Tecnologico de Monterrey – Nano Structured Materials Lab, 2022 - 2023
 Thesis student
